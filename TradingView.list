@@ -2,6 +2,18 @@
 # AUTHOR: AlaricMa
 # REPO: https://github.com/AlaricMa/proxy_rules
 # UPDATED: 2026-07-18 16:02:56
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,qishegg55.com,Proxy
+DOMAIN-SUFFIX,qsos.soosym.com,Proxy
+DOMAIN-SUFFIX,cloudflareinsights.com,Proxy
+DOMAIN-SUFFIX,baidu.com,Proxy
+DOMAIN-SUFFIX,qsh526724.com,Proxy
+DOMAIN-SUFFIX,qsimg26515.org.cn,Proxy
+DOMAIN-SUFFIX,qscnd.com,Proxy
+DOMAIN-SUFFIX,qsimg26105.org.cn,Proxy
+DOMAIN-SUFFIX,c3ks9sh7cm.com,Proxy
+DOMAIN-SUFFIX,muslimcharity.org.cn,Proxy
+DOMAIN-SUFFIX,qstp26724.org.cn,Proxy
+DOMAIN-SUFFIX,qsimg26515.com,Proxy
