@@ -1,0 +1,47 @@
+# NAME: OtherWebsites
+# AUTHOR: AlaricMa
+# REPO: https://github.com/AlaricMa/proxy_rules
+# UPDATED: 2026-07-18 16:02:56
+# DOMAIN-SUFFIX: 26
+# IP-CIDR：8
+# TOTAL: 34
+
+# APP_NAME：TradingView
+DOMAIN-SUFFIX,tradingview.com
+
+# APP_NAME：妻社
+DOMAIN-SUFFIX,qishegg55.com
+DOMAIN-SUFFIX,qsos.soosym.com
+DOMAIN-SUFFIX,qsh526724.com
+DOMAIN-SUFFIX,qsimg26515.org.cn
+DOMAIN-SUFFIX,qscnd.com
+DOMAIN-SUFFIX,qsimg26105.org.cn
+DOMAIN-SUFFIX,c3ks9sh7cm.com
+DOMAIN-SUFFIX,muslimcharity.org.cn
+DOMAIN-SUFFIX,qstp26724.org.cn
+DOMAIN-SUFFIX,qsimg26515.com
+
+# APP_NAME：海角社区
+DOMAIN-SUFFIX,haijiao.com
+DOMAIN-SUFFIX,hj260302818.top
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,static.cloudflareinsights.com
+
+# APP_NAME：黑料网
+DOMAIN-SUFFIX,6qh5p.blfenipd.com
+DOMAIN-SUFFIX,uforxk.cn
+DOMAIN-SUFFIX,opendsp.vip
+DOMAIN-SUFFIX,heiliao.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,cyou
+IP-CIDR,54.255.198.114/32
+IP-CIDR,47.128.222.54/32
+IP-CIDR,47.128.151.158/32
+IP-CIDR,56.10.62.34/32
+IP-CIDR,54.254.116.18/32
+IP-CIDR,52.77.210.85/32
+IP-CIDR,54.169.246.224/32
